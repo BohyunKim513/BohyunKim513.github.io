@@ -1,0 +1,15 @@
+---
+title: "Embedding Comparison for Social Welfare Synonym Dictionary: TF-IDF, Word2Vec, and SBERT"
+collection: publications
+category: conferences
+permalink: /publication/embedding-comparison-social-welfare
+excerpt: 'Constructed and compared three embedding models (TF-IDF, Word2Vec, SBERT) using hybrid weighting, L2 normalization, and UMAP dimensionality reduction, and evaluated clustering performance via silhouette coefficients to propose the optimal embedding methodology for a domain-specific synonym dictionary.'
+date: 2025-06-01
+venue: 'In press, Co-author, Undergraduate Researcher, Analysis Intelligence Decision Lab'
+slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
+paperurl: 'https://academicpages.github.io/files/paper3.pdf'
+citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+---
+
+I constructed and compared three embedding models (TF-IDF, Word2Vec, and SBERT) using hybrid weighting, L2 normalization, and UMAP dimensionality reduction to analyze semantic similarity in the social welfare domain.
+When the silhouette coefficient remained negative, I traced the cause to the curse of dimensionality and applied UMAP to recover distance discriminability, raising the coefficient to about 0.45. The study evaluates clustering performance through silhouette coefficients and cohesion metrics to propose the optimal embedding methodology for a domain-specific synonym dictionary.

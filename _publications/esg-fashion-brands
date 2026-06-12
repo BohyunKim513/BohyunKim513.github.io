@@ -1,0 +1,14 @@
+---
+title: "Strategic Analysis of Global Fashion Brands in Response to Climate Change: Focusing on ESG Reports"
+collection: publications
+category: conferences
+permalink: /publication/esg-fashion-brands
+excerpt: 'Analyzed the environmental strategies of global fashion brands by text-mining ESG reports using text preprocessing, TF-IDF, LDA topic modeling, and semantic network analysis, concluding that brands with stronger climate-responsive strategies exhibit higher emotional stability and strategic consistency in ESG management.'
+date: 2025-05-22
+venue: 'First Author, 2025 Korea Institute of Information and Communication Engineering (KIICE) Spring Conference'
+paperurl: 'https://academicpages.github.io/files/paper2.pdf'
+citation: 'Kim, B., Shin, S., & Lee, J. (2025-05-22). Strategic Analysis of Global Fashion Brands in Response to Cl imate Change: Focusing on ESG Reports. 한국정보통신학회 종합학술대회 논문집, 제주.'
+---
+
+I analyzed the environmental strategies of global fashion brands by text-mining their ESG reports. The pipeline executed text preprocessing, TF-IDF, LDA (Latent Dirichlet Allocation), and semantic network analysis.
+The study concluded that brands with stronger climate-responsive strategies exhibit higher emotional stability and strategic consistency in their ESG management. This work received the Best Student Paper Award at the conference.
